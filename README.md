@@ -4,4 +4,5 @@ Welcome to Prompt Coach! Our mission is to empower everyday users of large langu
 
 This project is created as part of the INFO 492: Intensive Capstone course at the University of Washington.
 
-Team: Ray Hwang, Marvin Tran, Kevin Chuang
+
+Team Member: Ray Hwang, Marvin Tran, Kevin Chuang
